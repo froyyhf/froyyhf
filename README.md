@@ -25,7 +25,7 @@ export default class User {
         // said languages. I still have room for improvement especially
         // in code security and optimizations.
 
-        // I've also worked on several  projects from various fields. Some
+        // I've also worked on several projects from various fields. Some
         // of my past projects include building a toy OS from scratch,
         // building a game and building a compiler.
         // Sadly, these projects were abandoned since I don't have the
